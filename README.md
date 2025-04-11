@@ -1,2 +1,3 @@
 # javascript
-a code repo for javascript  series 
+a code repo for small projects based on js topics
+
